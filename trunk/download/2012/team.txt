@@ -1,0 +1,56 @@
+team1201	Nicholas            	VSTQZ^1M
+team1202	友情参赛队*         	VKD2R^PU
+team1203	田寅 袁杭 马浩鉴    	7KDAJ8H6
+team1204	何简繁 邱伯发 刘杰  	7S5YR^H&
+team1205	王栋 杨虹志 游斌相  	7K#YBO96
+team1206	吴彦伦 刘燕 陈露    	FC#IR8XE
+team1207	汪东铭 罗干         	VCD2B^HM
+team1208	陈县 陈言华 张波    	~KLYZGH&
+team1209	彭浩 罗峰 马小燕    	7KT2BG9&
+team1210	龚静 李春龙 李翔    	FC52BGP&
+team1211	胡丁文 梁国柱 付云超	74#YJW9&
+team1212	王琳 张路萍 易奎    	NKL2ZO96
+team1213	何圳峰 陈舜尧 谢天天	VK5IZGP&
+team1214	彭小羽 汪双 彭伟    	7C#QR^1M
+team1215	申小林 刘波 文杰    	7CDYJWPE
+team1216	罗卫军 罗勃 刘大发  	NKDAJ8HE
+team1217	苏建 罗毅 张啸天    	~KD23GX&
+team1218	尹士勇 谭易炳 任书萌	NKLQJG9M
+team1219	吴禄高 陈维 刘彦强  	VK52ZWP&
+team1220	吴炳浩 杜茂兵 秦宇鹏	F@LQRW9U
+team1221	尚云龙 邵明亮 刘千宗	~@#QZGP6
+team1222	邓渊 孟繁超 杨元海  	VSLI38XE
+team1223	王杰 钟靓 王梓潞    	~STA3^9U
+team1224	易准 柳胜勋 王灿    	V4LAJOXE
+team1225	曾睿 何宜洋 刘哲    	FCDIJW1M
+team1226	章隆彬 张霞 王忆    	F4DQ3^9M
+team1227	黄仁兵 李黎 刘成攀  	VC#QZGHM
+team1228	张小刚 梁奇         	VS5YZGX&
+team1229	孙仕凯 窦源 朗文博  	NSDIJ81&
+team1230	罗彪 李孝奎         	NSTYZW1U
+team1231	郭伟林 张永根 陈浩  	7SL2BW9M
+team1232	唐泽严 朱一枭       	FCDQZGPU
+team1233	李东 黄勇           	FC#IBOXM
+team1234	熊盛 黄智浩 舒旭    	NCT2B^P6
+team1235	许珂 方珍           	7K#QBGPU
+team1236	张驰程 李继辉 尹月  	N@5IRO1U
+team1237	罗欢 毕飞 汪志衡    	V45QJG16
+team1238	蔡飞 陈力生         	74DQB8XM
+team1239	王志超 周靖力 游丽娟	~C5IZ8X&
+team1240	张福佳 王胜男 周凤青	F@LIZW1U
+team1241	孙仕凯 李杨楠 窦源  	V4#2J^1&
+team1242	詹俊 刘瑶 涂洪林    	F4LAZGP6
+team1243	郑采薇 覃克兰 崔文婷	7CTAB^HE
+team1244	刘志刚 薛强 余仁龙  	V@LQZ8P&
+team1245	李玲 蒋双霜         	F4DI3^H&
+team1246	闵娟                	74DY3W1&
+team1247	覃立森 杨国海 徐清林	7C#A3^X&
+team1248	周凯 苏森 张鑫      	~@5YJO16
+team1249	王洪艳 熊亮 张军    	N4L2B^P&
+team1250	罗意 胡开春         	NC#QZG9U
+team1251	胡勇 苏亚静 陈洋    	VK#IR^XM
+team1252	team1252            	V4LAR8XM
+team1253	team1253            	NK5Q38H6
+team1254	team1254            	NK5QJ8XU
+team1255	team1255            	~@DQZ8H6
+team1256	team1256            	~KLYJ^H6
