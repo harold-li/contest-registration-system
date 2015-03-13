@@ -1,0 +1,1 @@
+contest registration system for SWUST ACM-ICPC.
